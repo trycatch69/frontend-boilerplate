@@ -67,11 +67,6 @@ project/
     <script src="js/script.js"></script>
 </body>
 </html>
-<<<<<<< HEAD
-=======
-
----
->>>>>>> afacc03 ( Updated HTML Boilerplate)
 
 # 🎨 CSS Boilerplate
 
