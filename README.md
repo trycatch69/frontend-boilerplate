@@ -50,43 +50,23 @@ project/
 
 # 🚀 HTML Boilerplate
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-
-<meta charset="UTF-8">
-
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
-
-<title>Project Name</title>
-
-<link rel="stylesheet"
-href="css/style.css">
-
-<link rel="stylesheet"
-href="css/responsive.css">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Name</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
 </head>
-
 <body>
-
-<header></header>
-
-<main></main>
-
-<footer></footer>
-
-<script src="js/script.js"></script>
-
+    <header></header>
+    <main></main>
+    <footer></footer>
+    <script src="js/script.js"></script>
 </body>
-
 </html>
-```
-
----
 
 # 🎨 CSS Boilerplate
 
